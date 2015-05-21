@@ -7,10 +7,9 @@ Code tested with Sacramento Cites locations-of-city-trees.csv and PARKI-SPACE.cs
 @author: jay venti
 Created for codw4sac a Code 4 America brigade
 '''
-#fnamein  = "D:\Storage\Project and Reasch\Work Consulting\Code Sacramento\sac city apis\PARKI-SPACE.csv"
-#fnameout = "D:\Storage\Project and Reasch\Work Consulting\Code Sacramento\sac city apis\gen-PARKI-SPACE.csv"
-fnamein  = "D:\Storage\Project and Reasch\Work Consulting\Code Sacramento\sac city apis\80137-locations-of-city-trees.csv"
-fnameout = "D:\Storage\Project and Reasch\Work Consulting\Code Sacramento\sac city apis\gen-locations-of-city-trees.csv"
+
+fnamein  = "80139-locations-of-public-parking-spaces-2015-02-07.csv"
+fnameout = "80139-locations-of-public-parking-spaces-2015-02-07-transformed.csv"
 
 from time import gmtime, strftime
 #from pprint import pprint
